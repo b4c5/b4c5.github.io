@@ -48,7 +48,13 @@ theme = "LoveIt"
 # website title
 # 网站标题
 title = "b4c5"
+# 生成HTML的目录， 默认为public
+publishDir = "docs"
+
 ```
+#### 参考
+[1] [Configure Hugo | Hugo](https://gohugo.io/getting-started/configuration/)
+
 
 ## 二、配置github Pages
 
@@ -153,4 +159,10 @@ git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
 在github仓库的commit上，可以看到详细的日志。如下图所示：
 
 ![image-20220412110101758](https://raw.githubusercontent.com/b4c5/b4c5-images1/main/img/image-20220412110101758.webp)
+
+
+
+## 参考
+
+[1] [Hugo官方文档](https://gohugo.io/getting-started/usage/)
 

@@ -23,6 +23,8 @@ enableGitInfo = true
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
+# 生成html到docs目录
+publishDir = "docs"
 
 [languages]
   [languages.zh-cn]

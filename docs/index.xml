@@ -4,15 +4,22 @@
         <link>https://b4c5.github.io/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>b4c5@nomail.com (b4c5)</managingEditor>
-            <webMaster>b4c5@nomail.com (b4c5)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 12 Apr 2022 11:21:34 &#43;0800</lastBuildDate>
+            <webMaster>b4c5@nomail.com (b4c5)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 08 Jun 2022 11:26:22 &#43;0800</lastBuildDate>
             <atom:link href="https://b4c5.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>如何清空github仓库历史提交</title>
+    <title>如何恢复已有的hugo项目，以及基本的使用方法</title>
+    <link>https://b4c5.github.io/how-to-recovery-hugo-project-in-another-computer/</link>
+    <pubDate>Wed, 08 Jun 2022 11:26:22 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://b4c5.github.io/how-to-recovery-hugo-project-in-another-computer/</guid>
+    <description><![CDATA[新建博客： 使用hugo来建立自己的博客 安装hugo brew install hugo 下载仓库 git clone --recursive https://github.com/b4c5/b4c5.github.io.git blog 创建新文章 cd blog hugo new posts/how-to-use-hugo.md 将在content/posts目录，创建 how-to-use-hugo.md 文件]]></description>
+</item><item>
+    <title>如何清空github仓库历史的全部历史提交记录</title>
     <link>https://b4c5.github.io/clear-github-repo-history-and-recreate/</link>
     <pubDate>Tue, 12 Apr 2022 11:21:34 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://b4c5.github.io/clear-github-repo-history-and-recreate/</guid>
-    <description><![CDATA[如何清空github仓库历史提交 相当于把仓库清空，重建。 方案一：删除.git，并强制push 原理： 删除.git目录，重新建立git， 并将本地]]></description>
+    <description><![CDATA[**目的：**把仓库清空，重建。 方案一：删除.git，并强制push 原理： 删除.git目录，重新建立git， 并将本地内容强制push到远程仓]]></description>
 </item><item>
     <title>使用hugo来建立自己的博客</title>
     <link>https://b4c5.github.io/how-to-install-hugo-and-github-page/</link>
