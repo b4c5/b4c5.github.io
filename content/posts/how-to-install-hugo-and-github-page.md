@@ -1,5 +1,5 @@
 ---
-title: "How to Install Hugo and Github Page"
+title: "使用hugo来建立自己的博客"
 date: 2022-04-11T14:26:46+08:00
 draft: false
 ---

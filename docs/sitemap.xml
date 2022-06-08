@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://b4c5.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://b4c5.github.io/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2022-04-11T14:26:46+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://b4c5.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://b4c5.github.io/</loc><lastmod>2022-04-12T11:21:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://b4c5.github.io/posts/</loc><lastmod>2022-04-12T11:21:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://b4c5.github.io/clear-github-repo-history-and-recreate/</loc><lastmod>2022-04-12T11:21:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://b4c5.github.io/how-to-install-hugo-and-github-page/</loc><lastmod>2022-04-12T11:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://b4c5.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://b4c5.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

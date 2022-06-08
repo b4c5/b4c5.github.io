@@ -1,4 +1,4 @@
-# How to Install Hugo and Github Page
+# 使用hugo来建立自己的博客
 
 
 # 使用hugo来建立自己的博客
